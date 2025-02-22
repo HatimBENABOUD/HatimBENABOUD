@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HatimBENABOUD.
-- 👀 I’m interested in web development and data mining.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning machine learning.
-- 📫 You can reach me at #hatim_benaboud.
+- 📫 You can reach me at #hatimbenaboud_.
 - 😄 Pronouns: Nig/ger
-- ⚡ Fun fact: I love fun things.
+- ⚡ Fun fact: I love exploring new things.
 
 <!---
 HatimBENABOUD/HatimBENABOUD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
