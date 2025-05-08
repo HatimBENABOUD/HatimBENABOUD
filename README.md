@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HatimBENABOUD.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning machine learning.
-- 📫 You can reach me at #hatimbenaboud_.
-- 😄 Pronouns: Nig/ger
+- 📫 You can reach me at #hatimbenaboud2.
 - ⚡ Fun fact: I love exploring new things.
 
 <!---
