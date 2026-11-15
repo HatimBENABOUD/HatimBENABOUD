@@ -1,30 +1,63 @@
-<h1 align="center">Hi 👋, I'm Hatim BEN ABOUD</h1>
-<h3 align="center">A passionate AI Engineer from Morocco</h3>
+# Hi, I'm Hatim BEN ABOUD
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hatimbenaboud&label=Profile%20views&color=0e75b6&style=flat" alt="hatimbenaboud" /> </p>
+### Data Analyst & BI | Data Engineering student
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hatimbenaboud" alt="hatimbenaboud" /></a> </p>
+I turn raw business data into clean models and dashboards people can act on: SQL warehouses, star schemas, DAX measures and KPI reporting.
 
-- 🌱 I’m currently learning **Game Development**
+**Currently:** final-year Master's student in *Data Engineering & Analytics for the Gaming Industry* at ENS Fès (Université Sidi Mohamed Ben Abdellah), with a Bachelor's degree in Business Intelligence.
 
-- 👨‍💻 All of my projects are available at [https://github.com/HatimBENABOUD](https://github.com/HatimBENABOUD)
+**Looking for:** a 6-month end-of-studies internship (PFE) in **data analysis / Business Intelligence**, starting **1 February 2027**. Open to relocating anywhere in Morocco.
 
-- 💬 Ask me about **web development , Business Intelligence**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hatim%20BEN%20ABOUD-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-ben-aboud/)
+[![Email](https://img.shields.io/badge/Email-hatben43%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hatben43@gmail.com)
 
-- 📫 How to reach me **hatben43@gmail.com**
+---
 
-- ⚡ Fun fact **I'm always available for new experiences**
+## What I work on
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/hatem.benaboud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hatem.benaboud" height="30" width="40" /></a>
-</p>
+- **Data warehousing:** building layered pipelines (Bronze / Silver / Gold) from CRM and ERP sources, with cleaning, transformation and dimensional modelling.
+- **SQL analytics:** sales KPIs, rankings, time trends, running totals, segmentation, share-of-total, and reporting views.
+- **BI & reporting:** star-schema data models, DAX measures and interactive Power BI dashboards.
+- **Applied ML:** recommendation systems and NLP prototypes in Python.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Featured projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hatimbenaboud&show_icons=true&locale=en&layout=compact" alt="hatimbenaboud" /></p>
+| Project | What it does | Stack |
+|---|---|---|
+| **CRM/ERP Data Warehouse** | Integrates CRM and ERP sources through a Bronze → Silver → Gold ETL, with a star schema (facts and dimensions) ready for reporting. | SQL, ETL, Data Modelling |
+| **SQL Sales Analytics** | Query set analysing sales performance: ranking, trends over time, cumulative totals, segmentation and parts of the whole, plus reusable reporting views. | SQL |
+| **Power BI Data Model** | Rebuilt a complex model into a clean star schema, then added DAX measures and report visuals. | Power BI, DAX |
+| [**Hybrid Music Recommendation System**](https://github.com/HatimBENABOUD/Hybrid-Music-Recommendation-System) | Combines collaborative and content-based filtering to give personalised song suggestions. | Python, Streamlit |
+| [**GrammpaJoe**](https://github.com/HatimBENABOUD/GrammpaJoe) | A Grammarly-style app that analyses and corrects text in real time with a BERT-based NLP model. | Python, Streamlit, Flask, BERT |
+| **Brain Path** *(in progress)* | Educational app that analyses how children aged 6 to 12 play to identify their interests and recommend content. Presented at the Moroccan Gaming Expo 2026 in Rabat. | Game analytics, recommendations |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hatimbenaboud&show_icons=true&locale=en" alt="hatimbenaboud" /></p>
+## Tech stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hatimbenaboud&" alt="hatimbenaboud" /></p>
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Concepts:** ETL/ELT, dimensional modelling, star schema, DAX, data cleaning, KPI design, recommendation systems, NLP.
+**Studying in my Master's:** Big Data, Hadoop, Spark, NoSQL, machine learning.
+
+## Currently learning
+
+- Microsoft Power BI Data Analyst certification (in progress)
+- Harvard CS50: Introduction to Databases with SQL, and Introduction to Programming with Python (in progress)
+- Spark and Hadoop through my Master's program
+
+## Beyond code
+
+- President of **ENS.LOBBY**, a student club at ENS Fès (second term)
+- Showcased **Brain Path** at the Moroccan Gaming Expo 2026
+
+---
+
+*If you're hiring for a data analyst or BI internship, I'd love to talk: [hatben43@gmail.com](mailto:hatben43@gmail.com)*
